@@ -37,4 +37,5 @@ Some common features of a hospital management system include:
     
 The specific features and capabilities of a hospital management system can vary, depending on the vendor and the needs of the hospital.
 However, by implementing an HMS, hospitals can achieve greater efficiency and improve the overall quality of patient care.
+                                                        
                                                         Thank You...!!!
